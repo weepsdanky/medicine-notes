@@ -9,53 +9,75 @@
 
 ## 系统性课程（主线）
 
-### Harvard HMX Fundamentals（强烈推荐）
+### 课程覆盖总览
 
-Harvard Medical School 出品，免费旁听，有互动练习。适合有理科背景的人打底。
-课程页：https://hmx.harvard.edu/courses
-
-| 课程 | 内容 | 优先级 | 链接 |
-|------|------|--------|------|
-| **Biochemistry Fundamentals** | 代谢、蛋白质结构、酶、基因表达 | ⭐⭐⭐（已引用） | https://hmx.harvard.edu/courses/biochemistry |
-| **Physiology Fundamentals** | 各系统功能机制：心脏泵血、肾脏过滤、神经信号传导 | ⭐⭐⭐⭐⭐ 首选 | https://hmx.harvard.edu/courses/physiology |
-| **Immunology Fundamentals** | 免疫系统、炎症反应、疫苗原理、过敏/自身免疫 | ⭐⭐⭐⭐ | https://hmx.harvard.edu/courses/immunology |
-| **Genetics Fundamentals** | 遗传、基因突变、基因检测、遗传病 | ⭐⭐⭐ | https://hmx.harvard.edu/courses/genetics |
-| **Pharmacology Fundamentals** | 药物如何起效、受体机制、常见药类（ACEI/β-blocker等） | ⭐⭐⭐⭐ | https://hmx.harvard.edu/courses/pharmacology |
-
-**推荐 enroll 顺序：** Physiology → Immunology → Pharmacology → Genetics
-
-> Biochemistry 已引用。Physiology 是理解一切的底层——心跳为什么会加速、血压怎么调节、肾脏为什么会衰竭，都从这里来。
+| 学科 | 主线课程 | 说明 |
+|------|---------|------|
+| Anatomy | Khan Academy + Crash Course A&P | 结构覆盖完整 |
+| Physiology | Khan Academy + Crash Course A&P | 各系统机制都有 |
+| Immunology | Khan Academy（Health & Medicine → Immune） | 够入门，较浅 |
+| Genetics | Khan Academy（Biology 区，非 Health 区） | 需主动去找 |
+| Biochemistry | OpenStax Biochemistry（免费教材） | KA 覆盖有限，用教材补 |
+| Pharmacology | Ninja Nerd（YouTube，系统性强） | KA 基本没有药理，用 Ninja Nerd |
 
 ---
 
-### Khan Academy — Health & Medicine
+### Khan Academy — Health & Medicine ✅ 免费
 
-免费，系统，按"疾病/器官系统"组织，非常接近"患者视角"。
+Anatomy / Physiology / Immunology / Genetics 的主线。
 主页：https://www.khanacademy.org/science/health-and-medicine
 
-| 模块 | 内容 | 备注 |
-|------|------|------|
-| Circulatory system | 心脏、血压、心电图、心衰 | 与 Physiology 互补 |
-| Respiratory system | 呼吸机制、哮喘、COPD | 门诊常见 |
-| Nervous system | 神经信号、脑、脊髓损伤、中风 | 神经内科基础 |
-| Renal system | 肾脏、肾衰、透析 | 常见慢性病关联 |
-| Endocrine system | 激素、糖尿病、甲状腺 | 门诊最常见 |
-| Immune system | 免疫、HIV、过敏 | 与 HMX Immunology 互补 |
-| MCAT prep (Biology) | 分子生物学、遗传 | 深度补充 |
+| 模块 | 内容 | 覆盖学科 |
+|------|------|---------|
+| Circulatory system | 心脏、血压、心电图、心衰 | Anatomy + Physiology |
+| Respiratory system | 呼吸机制、哮喘、COPD | Anatomy + Physiology |
+| Nervous system | 神经信号、脑、脊髓损伤、中风 | Anatomy + Physiology |
+| Renal system | 肾脏、肾衰、透析 | Anatomy + Physiology |
+| Endocrine system | 激素、糖尿病、甲状腺 | Physiology |
+| Immune system | 免疫、HIV、过敏 | Immunology |
+| Biology → Genetics | 遗传、基因突变、基因检测 | Genetics（在 Biology 区） |
 
-**用法：** 用 Khan Academy 按需查具体疾病，用 HMX 建立系统框架。
+**用法：** 按系统推进，不需要线性学完，看到哪个系统就学那块。
 
 ---
 
-## YouTube 辅助（按需看，不作为主线）
+### Crash Course Anatomy & Physiology ✅ 免费（YouTube）
 
-| 频道 | 风格 | 最适合用来 |
+辅助理解、直觉建立。配合 Khan Academy 用，不单独作为主线。
+播放列表：搜 YouTube "Crash Course Anatomy and Physiology"（约 47 集）
+
+---
+
+### Ninja Nerd — Pharmacology ✅ 免费（YouTube）
+
+Pharmacology 的主线，KA 没有系统药理，Ninja Nerd 填补这个缺口。
+覆盖：心血管药（ACEI/ARB/β-blocker/他汀）、抗生素、神经系统药、内分泌药等。
+搜 YouTube："Ninja Nerd Pharmacology"
+
+---
+
+### OpenStax Biochemistry ✅ 免费（教材）
+
+Biochemistry 主线，KA 生化内容零散，用这本教材系统补。
+链接：https://openstax.org/details/books/biochemistry
+
+---
+
+### ~~Harvard HMX Fundamentals~~ ❌ 已确认收费
+
+原计划引用，现已确认迁移到付费平台（learn.hms.harvard.edu），不再推荐。
+
+---
+
+## YouTube 辅助
+
+| 频道 | 角色 | 最适合用来 |
 |------|------|-----------|
-| **Ninja Nerd** | 白板讲解，系统性强，深度适中 | 看某个系统的完整机制（如：心血管全套） |
-| **Osmosis** | 动画，病理机制清晰 | 理解具体疾病（高血压、糖尿病、心衰） |
-| **Armando Hasudungan** | 手绘，直觉化 | 生理/解剖概念初次接触 |
-| **Crash Course A&P** | 快节奏，基础 | 某个概念快速过一遍 |
-| **Medscape / NEJM videos** | 临床级别 | 医院遇到某个具体病名后深挖 |
+| **Ninja Nerd** | Pharmacology 主线 | 药理全套；也可看某系统的完整机制 |
+| **Crash Course A&P** | Anatomy/Physiology 辅助 | 直觉建立，快速回顾 |
+| **Osmosis** | 按需查 | 具体疾病机制（高血压、糖尿病、心衰） |
+| **Armando Hasudungan** | 按需查 | 生理/解剖概念初次接触，手绘直觉化 |
+| **Medscape / NEJM videos** | 深挖用 | 医院遇到某个具体病名后查 |
 
 ---
 
@@ -106,10 +128,10 @@ Harvard Medical School 出品，免费旁听，有互动练习。适合有理科
 
 ### 第二阶段：理解住院（3-6 个月之后）
 
-- HMX Physiology（系统打底）
-- HMX Immunology（炎症/感染/自身免疫）
-- HMX Pharmacology（理解医生开了什么药、为什么）
-- 神经系统：中风/癫痫/帕金森/头痛分类
+- Khan Academy Nervous system（中风/癫痫/帕金森/头痛分类）
+- Khan Academy Immune system + 深入 Osmosis（炎症/感染/自身免疫）
+- Ninja Nerd Pharmacology 系统过一遍（理解医生开了什么药、为什么）
+- OpenStax Biochemistry 按需补充
 
 ---
 

@@ -74,11 +74,12 @@ refs.md                     ← 课程资源与学习路线
 
 ## 课程进度
 
-| 课程 | 状态 | 当前位置 |
-|------|------|---------|
-| Crash Course Anatomy & Physiology | 未开始 | — |
-| HMX Biochemistry Fundamentals | 未开始 | — |
-| HMX Physiology Fundamentals | 未开始 | — |
-| HMX Immunology Fundamentals | 未开始 | — |
-| HMX Pharmacology Fundamentals | 未开始 | — |
-| Khan Academy Health & Medicine | 按需查阅 | — |
+| 课程 | 平台 | 学科 | 状态 | 当前位置 |
+|------|------|------|------|---------|
+| Crash Course Anatomy & Physiology | YouTube | Anatomy / Physiology | 未开始 | — |
+| Khan Academy Health & Medicine | Khan Academy | Anatomy / Physiology / Immunology | 未开始 | — |
+| Khan Academy Biology（Genetics 部分）| Khan Academy | Genetics | 按需查阅 | — |
+| Ninja Nerd Pharmacology | YouTube | Pharmacology | 未开始 | — |
+| OpenStax Biochemistry | 教材（免费）| Biochemistry | 按需查阅 | — |
+
+> ~~HMX Fundamentals~~ — 已确认收费，不再使用
