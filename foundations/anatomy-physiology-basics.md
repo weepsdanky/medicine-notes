@@ -41,19 +41,6 @@ Crash Course A&P 前几集（EP01–EP06 左右）的内容。
 
 ---
 
-## 稳态（Homeostasis）
-
-身体最核心的运作原则：**维持内环境稳定**。
-
-- 体温、血糖、血压、pH 都被精确调控
-- 机制：**负反馈**（Negative feedback）——偏离目标值 → 触发纠正 → 回到目标值
-- 例子：血糖升高 → 胰岛素分泌 → 细胞摄取葡萄糖 → 血糖降回正常
-
-**正反馈**（Positive feedback）少见，用于需要"加速到底"的场景：
-- 例子：分娩宫缩（越缩越强）、血液凝固
-
----
-
 ## 解剖方位术语
 
 | 术语 | 含义 | 中文 |
@@ -63,6 +50,10 @@ Crash Course A&P 前几集（EP01–EP06 左右）的内容。
 | Medial / Lateral | 内侧 / 外侧 | 靠中线 / 远离中线 |
 | Proximal / Distal | 近端 / 远端 | 靠躯干 / 远离躯干（用于四肢） |
 | Superficial / Deep | 浅 / 深 | 靠表面 / 靠内部 |
+
+* sagital plane 矢状面 身体分为左右
+* coronal plane 额状面 身体分为前后
+* transverse plane 横断面 身体分为上下
 
 ---
 
@@ -78,4 +69,63 @@ Crash Course A&P 前几集（EP01–EP06 左右）的内容。
 
 ---
 
-<!-- 来源：Crash Course A&P EP01–EP02 -->
+## Muscles 
+
+* Cardiac Muscles 
+  * striated 
+  * one nucleus 
+  * branching structure 
+  * intercalated disks 闰盘
+
+* Smooth muscle 
+  * uninucleate 
+  * packed together 
+  * no striation 
+
+* Skeletal muscle 
+  * long straight cells 
+  * striation 
+  * multiple nuclei 
+
+--- 
+
+## Tissues 
+
+* Epithelial tissues 上皮组织
+  * proper epithelium 上皮 - covers and lines your outer and inner body 
+  * glandular epithelium 腺上皮 - forms glands and secrets hormones and other substances 
+  * Basic shapes 
+    * squamous cells 
+    * cuboidal cells 
+    * colomnar cells 
+
+* Connective tissues 结缔组织 
+  * three characteristics 
+    * developed from mesenchyme 间充质 loose embronic tissue 
+    * have different degree of vascularity - blood flow 
+    * consists of non living material 
+  * four types: Proper cartilage bone and blood 
+  * 
+
+* made from extracellular matrix: ground substance 基质, cells 细胞 and fibres 纤维
+  * collagen fibre 胶原蛋白纤维
+  * elastic fibres 纤维较粗且有分支
+  * reticular fibres 纤维细长且有分支
+
+* Immature (blast cells) and mature cells 
+  * chondroblasts 成軟骨細胞 - blast cells of cartilage 
+  * osteoblast 成骨細胞 - blast cells of bones 
+
+* macrophage 巨噬细胞也是结缔组织
+
+* Marfan syndrome 馬凡氏症候群
+  * causing weakness in elastic fibre 
+
+## Connective Tissues 
+
+* 2 types 
+  * Loose - areolar 蜂窝组织 recticular 网状组织 adipose 脂肪组织
+  * Desne - regular irregular elastic 
+* 
+
+<!-- 来源：Crash Course A&P Introduction and Tissues  -->
